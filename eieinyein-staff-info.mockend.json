@@ -1,0 +1,148 @@
+{
+  "data": {
+    "image": "./images/about/avatar.jpg",
+    "position": "Freelance Accountant",
+    "name": "Ei Ei Nyein",
+    "mobile_no": "09252442672",
+    "email": "eieinyeinacc@gmail.com",
+    "address": "Yangon",
+    "father_name": "U Win",
+    "citizenship": "Myanmar",
+    "gender": "Female",
+    "working_experience": [
+      {
+        "position": "Founder/Director",
+        "year": "2015",
+        "name": "QUEEN Travel & Tours"
+      },
+      {
+        "position": "Founder/Director",
+        "year": "2017",
+        "name": "Pan Htwar Ready to wear"
+      },
+      {
+        "position": "Founder",
+        "year": "2017",
+        "name": "Bright Pride-Myanmar Lesbian Organization"
+      }
+    ],
+    "education": [
+      "B.Econ (Statistics) (March’2007)",
+      "Diploma in Computerized Accounting (UK) (April’2010)"
+    ],
+    "other_qualification": [
+      "001##Human Sexuality (July’2017)",
+      "002##Feminist Leadership (August’2017)",
+      "003##Financial Management (August’2017)",
+      "004##Organizational Leadership (October’2017)",
+      "005##Generate Your Business and Start Your Business (January’2018)",
+      "006##SOGIE/Human Right/ Dignity/ Legal/Psycho (May’2018)",
+      "007##Improve Your Business (July’2018)",
+      "008##Feminist Leadership Training in Chaing Mai (November’2018)",
+      "009##Advance Human Rights and SOGIE/LGBT (April’2019)",
+      "010##Training of Trainer on Human Rights and LGBT/SOGIE Rights (October’2019)",
+      "011##COVID-19 Safety for SMEs Training Programme (December’2020)",
+      "012##The Multiplier Training on Pluralism (July’2021)",
+      "013##Improve Your Food Processing Business ( September’2021)",
+      "014##Foreign Exchange Essentials from Corporate Finance Institute (November’2021)",
+      "015##Reading Financial Statements from Corporate Finance Institute (November’2021)",
+      "016##Accounting Fundamentals from Corporate Finance Institute (November’2021)",
+      "017##Introductin to Corporate Finance from Corporate Finance Institute (November’2021)",
+      "018##Math Fundamentals for Capital Markets from Corporate Finance Institute (November’2021)",
+      "019##Statistics Fundamentals from Corporate Finance Institute(December’2021)",
+      "020##Business Analysis Basics from Skillup by Simplilearn (December’2021)",
+      "021##Principles of Economics Microeconomics from MRUniversity (February’2022)",
+      "022##Principles of Economics Macroeconomics from MRUniversity (February’2022)",
+      "023##International Trade from MRUniversity (March’2022)",
+      "024##Financial Globalization, Capital Flows and the Global Financial Cycle from ADB Institute (May’2022)",
+      "025##Sustainability Training and E-Learning Program [STEP] [Self-pace] from World Bank Group (May’2022)",
+      "026##Starting a Business 2022 from Santa Clara University (June’2022)",
+      "027##The Cultural Relations and Cultural Diplomacy Introduction Course from British Council (June’2022)",
+      "028##The Cultural Strategy Course from British Council  (June’2022)"
+    ],
+    "responsibilities": [
+      "Computer literacy is complusory",
+      "Manage bank transaction, check weekly and monthly cash balance and report to Admim",
+      "Excellent communication and Interpersonal skills are essential",
+      "Ability to correspond and communicate independently with clients",
+      "Work experience in accounts will be an added advantage",
+      "Able to manage and control the junior accountants",
+      "Monitoring day to day finance operations, and company’s financial accounting, monitoring and reporting systems",
+      "Daily accounting transcations",
+      "Ensures all expenditure worksheets for accuracy and completeness",
+      "Prepare and maintain cash books ensuring completeness and accuracy of data entry.",
+      "Prepare and maintain accounts payable, receivable and payroll.",
+      "Monthly preparation of Financial statements",
+      "Prepares financial reports such as monthly profit and loss, balance sheet reports"
+    ],
+    "social": [
+      {
+        "name": "facebook",
+        "icon": "https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png",
+        "profile_link": "https://www.facebook.com/brightpride.queen.7"
+      },
+      {
+        "name": "linkin",
+        "icon": "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png",
+        "profile_link": "https://www.linkedin.com/in/ei-ei-nyein-18052047/"
+      }
+    ],
+    "about_me": "I am currently a self-employed woman. Businesses include domestic tourism, production and sale of Ready-to-wear Burmese women’s clothing and distribution of food (spices). I am one ofthe Founder of the Myanmar Lesbian Organization which provides training for LGBT peoplethrough Entrepreneurship Training and Hormone Therapy Training. On the other sides, I’m teaching Mathematics in seventh grade and Economics in ninth grade since 2016 at the Monastic School in my township. And I also works as a part-time accountant at the largest Men clothing wholesaler in Yangon. In rural areas, students, also advises women and LGBT youth on Human Rights, Sexual and Reproductive Health, Personal Grooming and Hygiene, Feminist Leadership and SMEs.",
+    "what_i_do": [
+      "Accounting",
+      "Financial",
+      "Couching",
+      "Management"
+    ],
+    "what_i_do_bg": [
+      "#e5f2ff",
+      "#e5f2ff",
+      "#e5f2ff",
+      "#e5f2ff",
+      "#e5f2ff"
+    ],
+    "working_skills": [
+      {
+        "name": "Accounting",
+        "value": "80",
+        "color": "red"
+      },
+      {
+        "name": "Accounts Payable & Receivable",
+        "value": "70",
+        "color": "blue"
+      },
+      {
+        "name": "Accounts Reconciliation",
+        "value": "60",
+        "color": "yellow"
+      },
+      {
+        "name": "Financial Statements/Reporting",
+        "value": "60",
+        "color": "pink"
+      }
+    ],
+    "knowledges": [
+      "Problem-Solving",
+      "Time Management",
+      "Couching",
+      "Excel and Other Programs"
+    ],
+    "certificates": [
+      "014.png",
+      "015.png",
+      "016.png",
+      "017.png",
+      "018.png",
+      "019.png",
+      "020.png",
+      "021.png",
+      "022.png",
+      "023.png",
+      "024.png",
+      "025.png",
+      "026.png"
+    ]
+  }
+}
